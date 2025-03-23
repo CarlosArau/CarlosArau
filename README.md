@@ -48,5 +48,11 @@
 
 ------
 
+## 🚀 Proyectos Destacados  
+
+### 🌍 Análisis de Indicadores Económicos  
+- **Descripción:** Exploración de la relación entre PIB per cápita, gasto en salud, gasto en educación y desempleo mediante visualización de datos.  
+- **Skills:** R Studio, Power BI, dplyr.  
+- 🔗 [Repositorio](https://github.com/CarlosArau/Analisis_macroeconomico)  
 
 
