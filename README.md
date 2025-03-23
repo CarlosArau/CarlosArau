@@ -32,6 +32,13 @@
 ## Certificados
 [![Credly](https://img.shields.io/badge/Credly-F57C00.svg?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/carlos-arau)
 
+## 🚀 Proyectos Destacados  
+
+### 🌍 Análisis de Indicadores Económicos  
+- **Descripción:** Exploración de la relación entre PIB per cápita, gasto en salud, gasto en educación y desempleo mediante visualización de datos.  
+- **Skills:** R Studio, Power BI, dplyr.  
+- 🔗 [Repositorio](https://github.com/CarlosArau/Analisis_macroeconomico)  
+
 
 ## Git Hub Stats
 
@@ -48,11 +55,6 @@
 
 ------
 
-## 🚀 Proyectos Destacados  
 
-### 🌍 Análisis de Indicadores Económicos  
-- **Descripción:** Exploración de la relación entre PIB per cápita, gasto en salud, gasto en educación y desempleo mediante visualización de datos.  
-- **Skills:** R Studio, Power BI, dplyr.  
-- 🔗 [Repositorio](https://github.com/CarlosArau/Analisis_macroeconomico)  
 
 
