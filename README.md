@@ -27,7 +27,6 @@
 ## Redes Sociales
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-arau)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carl.arau7@gmail.com)
-[![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/123559181-carlos)
 
 ## Certificados
 [![Credly](https://img.shields.io/badge/Credly-F57C00.svg?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/carlos-arau)
