@@ -38,12 +38,10 @@
 - **Skills:** R Studio, Power BI, dplyr.  
 - 🔗 [Repositorio](https://github.com/CarlosArau/Analisis_macroeconomico)  
 
-
-## Git Hub Stats
-
-[![](https://github-readme-stats.vercel.app/api?username=carlosarau&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/carlosarau)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=carlosarau&theme=material-palenight)](https://github.com/carlosarau)
-</div>
+### 📈 Análisis de Acciones en la Industria Tecnológica  
+- **Descripción:** Evaluación del rendimiento de acciones de Meta, Nvidia, Alphabet y Apple mediante análisis de riesgo, precio de acción y visualización de datos.  
+- **Skills:** Python, Pandas, Matplotlib.  
+- 🔗 [Repositorio](https://github.com/CarlosArau/Analisis_acciones1)  
 
 ----
 
