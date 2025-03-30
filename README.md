@@ -43,7 +43,10 @@
 - **Skills:** Python, Pandas, Matplotlib.  
 - 🔗 [Repositorio](https://github.com/CarlosArau/Analisis_acciones1)  
 
-----
+### 📊 Estimación de Población Extranjera en Chile  
+- **Descripción:** Creación de un gráfico de barras animado (bar chart race) para visualizar la evolución de la población extranjera en Chile utilizando datos del INE.  
+- **Skills:** Python, Matplotlib, Bar Chart Race, Pandas.  
+- 🔗 [Repositorio](https://github.com/CarlosArau/Poblacion_extranjera_Chile)
 
 
 
